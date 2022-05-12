@@ -3,4 +3,4 @@ project(ESE_124 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(ESE_124 main.c)
+add_executable(ESE_124 main.c moves.c vittualAnt.c vittualAnt.h coordinates.c coordinates.h)
